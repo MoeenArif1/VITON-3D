@@ -1,0 +1,2 @@
+stored.jpg input.jpg
+input.jpg stored.jpg
