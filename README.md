@@ -16,11 +16,14 @@ Click the badge above to open the project notebook in Google Colab. This noteboo
 
 To begin experimenting with the project, follow these steps in the provided Colab notebook:
 
-1. **Default Dataset Execution:**
+1. **Copy Networks Data:**
+    -Copy data from the link into the VITON-3D Folder (https://drive.google.com/drive/folders/10P9sW_bVoIEL9qZKjWIhf4ja0BsEXtKA)
+
+3. **Default Dataset Execution:**
    - Open the Colab notebook by clicking on the badge above.
    - Follow the instructions within the notebook to execute the system with the default dataset.
 
-2. **Using Your Own Data:**
+4. **Using Your Own Data:**
    - Prepare your images by resizing them to 320x512 pixels and saving them as PNG files with a white background.
    - Place your custom images in the directory `DATA/custom_input/image`.
    - Update the `test_pairs` configuration in the `custom_input` folder to match your custom dataset.
