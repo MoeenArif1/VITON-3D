@@ -17,7 +17,10 @@ Click the badge above to open the project notebook in Google Colab. This noteboo
 To begin experimenting with the project, follow these steps in the provided Colab notebook:
 
 1. **Copy Networks Data:**
-    -Copy data from the link into the VITON-3D Folder (https://drive.google.com/drive/folders/10P9sW_bVoIEL9qZKjWIhf4ja0BsEXtKA)
+   
+    - Copy data from the link into the VITON-3D Folder.
+      [![Google Drive 🔗](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/15px-Google_Drive_logo.png)
+](https://drive.google.com/drive/folders/10P9sW_bVoIEL9qZKjWIhf4ja0BsEXtKA)
 
 3. **Default Dataset Execution:**
    - Open the Colab notebook by clicking on the badge above.
